@@ -11,7 +11,7 @@
 # 	print('kid')
 
 
-listName = ['bill', 'sophia', 'billpoon']
+listName = ['bill', 'sophia', 'billpoon', 'miemie']
 
 for name in listName :
 	print(name)
